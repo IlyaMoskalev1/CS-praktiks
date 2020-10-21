@@ -1,0 +1,9 @@
+C:\Users\Asus\source\repos\Мессенджер\Мессенджер\bin\Debug\Мессенджер.exe.config
+C:\Users\Asus\source\repos\Мессенджер\Мессенджер\bin\Debug\Мессенджер.exe
+C:\Users\Asus\source\repos\Мессенджер\Мессенджер\bin\Debug\Мессенджер.pdb
+C:\Users\Asus\source\repos\Мессенджер\Мессенджер\obj\Debug\Мессенджер.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Мессенджер\Мессенджер\obj\Debug\Мессенджер.Properties.Resources.resources
+C:\Users\Asus\source\repos\Мессенджер\Мессенджер\obj\Debug\Мессенджер.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Мессенджер\Мессенджер\obj\Debug\Мессенджер.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Мессенджер\Мессенджер\obj\Debug\Мессенджер.exe
+C:\Users\Asus\source\repos\Мессенджер\Мессенджер\obj\Debug\Мессенджер.pdb
