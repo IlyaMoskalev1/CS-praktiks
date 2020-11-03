@@ -1,0 +1,9 @@
+C:\Users\student\Source\Repos\RusAl84\Cs_praktiks\praktika10\1\WinFormsApp_HitTheKey\bin\Debug\WinFormsApp_HitTheKey.exe.config
+C:\Users\student\Source\Repos\RusAl84\Cs_praktiks\praktika10\1\WinFormsApp_HitTheKey\bin\Debug\WinFormsApp_HitTheKey.exe
+C:\Users\student\Source\Repos\RusAl84\Cs_praktiks\praktika10\1\WinFormsApp_HitTheKey\bin\Debug\WinFormsApp_HitTheKey.pdb
+C:\Users\student\Source\Repos\RusAl84\Cs_praktiks\praktika10\1\WinFormsApp_HitTheKey\obj\Debug\WinFormsApp_HitTheKey.csprojAssemblyReference.cache
+C:\Users\student\Source\Repos\RusAl84\Cs_praktiks\praktika10\1\WinFormsApp_HitTheKey\obj\Debug\WinFormsApp_HitTheKey.Form1.resources
+C:\Users\student\Source\Repos\RusAl84\Cs_praktiks\praktika10\1\WinFormsApp_HitTheKey\obj\Debug\WinFormsApp_HitTheKey.Properties.Resources.resources
+C:\Users\student\Source\Repos\RusAl84\Cs_praktiks\praktika10\1\WinFormsApp_HitTheKey\obj\Debug\WinFormsApp_HitTheKey.csproj.GenerateResource.cache
+C:\Users\student\Source\Repos\RusAl84\Cs_praktiks\praktika10\1\WinFormsApp_HitTheKey\obj\Debug\WinFormsApp_HitTheKey.exe
+C:\Users\student\Source\Repos\RusAl84\Cs_praktiks\praktika10\1\WinFormsApp_HitTheKey\obj\Debug\WinFormsApp_HitTheKey.pdb

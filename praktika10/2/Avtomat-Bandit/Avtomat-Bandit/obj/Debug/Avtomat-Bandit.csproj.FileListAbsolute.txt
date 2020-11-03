@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\RusAl84\Cs_praktiks\praktika10\2\Avtomat-Bandit\Avtomat-Bandit\bin\Debug\Avtomat-Bandit.exe.config
+C:\Users\student\source\repos\RusAl84\Cs_praktiks\praktika10\2\Avtomat-Bandit\Avtomat-Bandit\bin\Debug\Avtomat-Bandit.exe
+C:\Users\student\source\repos\RusAl84\Cs_praktiks\praktika10\2\Avtomat-Bandit\Avtomat-Bandit\bin\Debug\Avtomat-Bandit.pdb
+C:\Users\student\source\repos\RusAl84\Cs_praktiks\praktika10\2\Avtomat-Bandit\Avtomat-Bandit\obj\Debug\Avtomat-Bandit.csprojAssemblyReference.cache
+C:\Users\student\source\repos\RusAl84\Cs_praktiks\praktika10\2\Avtomat-Bandit\Avtomat-Bandit\obj\Debug\Avtomat_Bandit.Form1.resources
+C:\Users\student\source\repos\RusAl84\Cs_praktiks\praktika10\2\Avtomat-Bandit\Avtomat-Bandit\obj\Debug\Avtomat_Bandit.Properties.Resources.resources
+C:\Users\student\source\repos\RusAl84\Cs_praktiks\praktika10\2\Avtomat-Bandit\Avtomat-Bandit\obj\Debug\Avtomat-Bandit.csproj.GenerateResource.cache
+C:\Users\student\source\repos\RusAl84\Cs_praktiks\praktika10\2\Avtomat-Bandit\Avtomat-Bandit\obj\Debug\Avtomat-Bandit.exe
+C:\Users\student\source\repos\RusAl84\Cs_praktiks\praktika10\2\Avtomat-Bandit\Avtomat-Bandit\obj\Debug\Avtomat-Bandit.pdb
