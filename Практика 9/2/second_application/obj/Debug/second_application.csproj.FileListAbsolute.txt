@@ -1,0 +1,9 @@
+C:\Users\student\Source\Repos\Cs_praktiks\praktirka9\2\second_application\bin\Debug\second_application.exe
+C:\Users\student\Source\Repos\Cs_praktiks\praktirka9\2\second_application\bin\Debug\second_application.pdb
+C:\Users\student\Source\Repos\Cs_praktiks\praktirka9\2\second_application\obj\Debug\second_application.csprojAssemblyReference.cache
+C:\Users\student\Source\Repos\Cs_praktiks\praktirka9\2\second_application\obj\Debug\second_application.Form1.resources
+C:\Users\student\Source\Repos\Cs_praktiks\praktirka9\2\second_application\obj\Debug\second_application.Preview.resources
+C:\Users\student\Source\Repos\Cs_praktiks\praktirka9\2\second_application\obj\Debug\second_application.Properties.Resources.resources
+C:\Users\student\Source\Repos\Cs_praktiks\praktirka9\2\second_application\obj\Debug\second_application.csproj.GenerateResource.cache
+C:\Users\student\Source\Repos\Cs_praktiks\praktirka9\2\second_application\obj\Debug\second_application.exe
+C:\Users\student\Source\Repos\Cs_praktiks\praktirka9\2\second_application\obj\Debug\second_application.pdb
