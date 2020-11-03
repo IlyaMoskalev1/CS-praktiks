@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\Cs_praktiks\praktirka9\1\RandWindow\bin\Debug\RandWindow.exe
+C:\Users\student\source\repos\Cs_praktiks\praktirka9\1\RandWindow\bin\Debug\RandWindow.pdb
+C:\Users\student\source\repos\Cs_praktiks\praktirka9\1\RandWindow\obj\Debug\RandWindow.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Cs_praktiks\praktirka9\1\RandWindow\obj\Debug\RandWindow.Form1.resources
+C:\Users\student\source\repos\Cs_praktiks\praktirka9\1\RandWindow\obj\Debug\RandWindow.Properties.Resources.resources
+C:\Users\student\source\repos\Cs_praktiks\praktirka9\1\RandWindow\obj\Debug\RandWindow.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Cs_praktiks\praktirka9\1\RandWindow\obj\Debug\RandWindow.exe
+C:\Users\student\source\repos\Cs_praktiks\praktirka9\1\RandWindow\obj\Debug\RandWindow.pdb
